@@ -1,5 +1,5 @@
 
-# 💼 Data Scientist Salary Predictor
+# 💼 SalaryPredict AI - Data Scientist Salary Predictor using Ml
 
 A comprehensive tool designed to estimate data science salaries based on job descriptions. This project helps data scientists negotiate better salaries when searching for a job.
 
