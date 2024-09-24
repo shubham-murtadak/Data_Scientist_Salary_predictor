@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Apr 14 08:45:56 2020
-
-@author: Ken
-"""
 
 import requests 
 from data_input import data_in
