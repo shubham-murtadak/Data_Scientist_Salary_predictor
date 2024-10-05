@@ -1,1 +1,3 @@
-DataS_env/
+dataenv/
+__pycache__
+.env

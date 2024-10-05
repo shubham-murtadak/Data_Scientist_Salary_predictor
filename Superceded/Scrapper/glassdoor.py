@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 import pandas as pd
 
-PATH = 'D:\personal\salary_predictor\chromedriver\chromedriver.exe'
+PATH = 'D:\personal\Personal Projects\salary_predictor\chromedriver\chromedriver.exe'
 
 
 l=list()
@@ -57,7 +57,7 @@ for job in allJobs:
 print(l)
 
 df = pd.DataFrame(l)
-df.to_excel(r'Data\\jobs.xlsx', index=False)
+df.to_excel(r'Data\\jobs2.xlsx', index=False)
 
 
 
